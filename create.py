@@ -1,6 +1,7 @@
 def m135436d(s):
         indexOf  = s.find("?")
         indexOf2 = s.find("#")
+
         
         if indexOf == -1: return None
         if indexOf2 == -1: return s[indexOf+1:]
