@@ -4,8 +4,8 @@ x gorgon x ladon x argus TikTok api login follow like
 # tiktok-api-creator-accounts
 tiktok api creator accounts new version 
 
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
 
 # tiktok_api
  tiktok api last version mass account creator of tik tok accounts, tik tok likes, comments, tik tok latest version, x-gorgon, x-ladon, x-argus, algorithms
@@ -36,5 +36,5 @@ tiktok api creator accounts new version
 
 
 
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
